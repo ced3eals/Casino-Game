@@ -1,0 +1,24 @@
+        
+
+
+		╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+		║		 	██████╗ ███████╗ ██████╗ ██╗     ███████╗███████╗                           ║
+		║			██╔══██╗██╔════╝██╔════╝ ██║     ██╔════╝██╔════╝    ██╗		    ║
+		║			██████╔╝█████╗  ██║  ███╗██║     █████╗  ███████╗    ╚═╝	            ║
+		║			██╔══██╗██╔══╝  ██║   ██║██║     ██╔══╝  ╚════██║    ██╗                    ║
+		║			██║  ██║███████╗╚██████╔╝███████╗███████╗███████║    ╚═╝                    ║
+		║			╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝                           ║  
+		║                                                                                                   ║
+		║   ♥      ♦         ♣       ♠         ♦       ♦        ♥         ♦         ♣       ♠       ♦      ♥║
+		║♣       ♠       ♥        ♣        ♠        ♦       ♠           ♣       ♠       ♥        ♣        ♠ ║
+		║                                                                                                   ║
+		║    Au début du jeu le joueur dépose un certain nombre de crédits, par exemple 100 crédits.        ║
+		║    Avant chaque  lancement  de  la  machine,  le  joueur  peut  choisir  de  miser  soit  1,      ║
+		║   2  ou  3  crédits. Après chaque lancement, la machine indique le gain obtenu en fonction de     ║
+		║   la combinaison qui est apparue. Bien entendu, le gain obtenu correspond au gain de base lié     ║
+		║   à la combinaison multiplié par la mise du joueur. Le jeu se poursuit tant que le joueur le      ║
+		║    souhaite et que son nombre de crédits est positif. Le jeu se termine automatiquement dans      ║
+		║  le cas où le joueur ne dispose plus de crédits. Le joueur peut également décider d’encaisser     ║
+		║                             les crédits disponibles à tout moment du jeu                          ║
+		╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
